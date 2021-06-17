@@ -1,0 +1,90 @@
+
+  
+h1,h2{
+  text-align: center;
+  font-family: 'Do Hyeon', sans-serif;
+}
+h3{
+  font-family:'Josefin Sans', sans-serif;
+}
+
+.bg-image{
+  height: 38vw;
+  background-image: url("https://i.imgur.com/REWIhnv.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  
+}
+
+h4{
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+
+
+#portfolio{
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  max-width: 500px;
+  max-height:500px;
+  width: auto;
+  height: auto;
+}
+
+#sobre{
+  
+}
+
+mandaumzap{
+  
+}
+
+#carro{
+  background-image: url("images/back_carrossel.jpg");
+  background-size: cover;
+}
+#carro2{
+  padding: 10px;
+}
+#sobreimg{
+  box-shadow: 5px 5px 5px  black;
+  
+}
+#Sobre{
+  padding: 15px;
+}
+
+#par{
+  background-color: #FDF3ED;
+  margin: 10px;
+  padding: 50px;
+
+ 
+}
+#impar{
+  background-color: #F4F0EC;
+  margin: 10px;
+  padding: 50px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align:right;
+  text-decoration: none;
+  border-radius: 50%;
+}
+#menuz {
+  background-color: #FDF3ED !important ;
+  color: #252323 !important;
+}
+.footer{
+  background-color: #F4F0EC !important;
+  color: #252323
+}
